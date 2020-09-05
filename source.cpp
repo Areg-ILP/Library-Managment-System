@@ -1,7 +1,15 @@
+//Hi! This is a simple c++ mini project_
+//which I found in web and wanted to implement for learning purposes.
+//I added a part of me to this project.
+//Thank you for watching.I hope,I got it.
+//git - areg-ilp
+//inst - _areg_01
+
 #include "structures.h"
 using namespace std;
 
-vector<book_info> tmpBooks;
+//This is a cpp file function.
+//Other functions were defined in another file.
 
 //start func//
 void StartMenu();
