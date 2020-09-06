@@ -1,0 +1,3 @@
+0 admin admin
+1 pap pap
+2 areg areg
